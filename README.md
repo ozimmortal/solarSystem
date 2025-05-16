@@ -5,7 +5,7 @@ This project is a  graphical simulation of solar system using C++ and OpenGL (GL
 ## Features
 
 - Uses OpenGL and GLUT
--3D
+- 3D
 
 ## Prerequisites
 
@@ -24,4 +24,8 @@ This project is a  graphical simulation of solar system using C++ and OpenGL (GL
     ```
     ./main
     ```
+
+
+https://github.com/user-attachments/assets/1825bf65-6ed3-413f-8f91-7b489aaff6b4
+
 
